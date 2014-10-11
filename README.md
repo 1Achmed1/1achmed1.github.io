@@ -16,3 +16,11 @@ it's released using a 64-bit framework anyways.
 Holobrowse 2 Bleeding Edge is the newest, some-what stable build of the application. At the moment, the bleeding edge          functions as a standalone and does not need an installer.
 
 If you want to know more about Holobrowse, please contact me at tmiandreww@gmail.com.
+
+Holobrowse 2 was developed on the .NET Framework 4.5 with Windows 10. We recommend that you use Windows 8 or 10 when using Holobrowse, as the following will not display correctly on Windows 7 and Earlier:
+- Labels will appear to be located down and to the right of the intended position
+- Buttons will seem small and look weird
+- The DengXian font that is used throughout the application isn't installed, you can google and buy the font if you want, though
+- Some standard HTML and CSS tags won't appear correctly, including the color tag in CSS
+- The File menus have a strange darker gray bar to the left of them
+- The about pop-up will have wierd text positioning, making it look worse than it should
