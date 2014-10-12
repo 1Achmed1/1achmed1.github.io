@@ -13,7 +13,7 @@ If you use mac, download "Holobrowse Mac Download" as a .zip folder by clicking 
 will be forced to try to fix it yourself.I do not plan on releasing a 64-bit version for mac in the forseeable future, since     it's a waste of time because all Macs running OSX 10.7 and later are 64-bit, therefore
 it's released using a 64-bit framework anyways.
 
-Holobrowse 2 Bleeding Edge is the newest, some-what stable build of the application. At the moment, the bleeding edge          functions as a standalone and does not need an installer.
+Holobrowse 2 Bleeding Edge is the newest, some-what stable build of the application. At the moment, the bleeding edge functions as a standalone and does not need an installer.
 
 If you want to know more about Holobrowse, please contact me at tmiandreww@gmail.com.
 
