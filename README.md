@@ -23,4 +23,4 @@ Holobrowse 2 was developed on the .NET Framework 4.5 with Windows 10. We recomme
 - The DengXian font that is used throughout the application isn't installed, you can google and buy the font if you want, though
 - Some standard HTML and CSS tags won't appear correctly, including the color tag in CSS
 - The File menus have a strange darker gray bar to the left of them
-- The about pop-up will have wierd text positioning, making it look worse than it should
+- The about pop-up will have wierd text positioning, making it look like I did a half-assed job, rather than spend 10 minutes debating positioning in my head.
